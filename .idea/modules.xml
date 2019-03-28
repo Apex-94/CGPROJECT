@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Algorithms/.idea/Algorithms.iml" filepath="$PROJECT_DIR$/../Algorithms/.idea/Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CGPROJECT.iml" filepath="$PROJECT_DIR$/.idea/CGPROJECT.iml" />
     </modules>
   </component>
