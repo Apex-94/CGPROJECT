@@ -1,5 +1,6 @@
 import tkinter,os
 
+#Hello there
 #THIS WILL STORE OUT FRACTAL NAMES - TO BE CHANGED ACCORDING TO NAME OF FILES
 dict_Of_Fractals={ 1 : 'Bransley_Fern',
                    2 : 'SIERPINSKI',
